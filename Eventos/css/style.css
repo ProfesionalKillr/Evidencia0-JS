@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+body{
+    background: rgb(50, 156, 90);
+    align-items: center;
+    display: flex;
+  justify-content: center;
+}
+.formulario{
+    justify-content: center;
+    background-color: white;
+    border-radius: 5%;
+    width: 50%;
+    height: 30%;
+}
+.eventos{
+    display: flex;
+  justify-content: center;
+}
+.titulo{
+    display: flex;
+  justify-content: center;
+}
+.listaEventos2{
+}
+.evento{
+    justify-content: center;
+    background-color: white;
+    border-radius: 5%;
+    width: 70%;
+    height: 30%;
+}
+.dias{
+
+}
+.diasFaltantes{
+
+}
+.texto{
+
+}
+.nombreEvento{
+
+}
+.fechaEvento{
+
+}
+.acciones{
+
+}
+.eliminar{
+    background-color: green;
+}
+.eliminar:hover{
+    background-color: red;
+}
